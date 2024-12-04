@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafaf\\Documents\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\rafaf\\documents\\final\\assets\\unitytechnologies\\scripts\\scoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\scoring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|c:\\users\\rafaf\\documents\\final\\assets\\unitytechnologies\\scripts\\earnzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\earnzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\rafaf\\Documents\\Final\\assets\\unitytechnologies\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\rafaf\\Documents\\Final\\assets\\unitytechnologies\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\gameending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\rafaf\\Documents\\Final\\assets\\unitytechnologies\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\rafaf\\Documents\\Final\\assets\\unitytechnologies\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\waypointpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|C:\\Users\\rafaf\\Documents\\Final\\assets\\unitytechnologies\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A227F1-5C0F-ACA8-E1B1-82377BC58276}|Assembly-CSharp.csproj|solutionrelative:assets\\unitytechnologies\\scripts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EarnZone.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\EarnZone.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\EarnZone.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\EarnZone.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\EarnZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:42:41.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scoring.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Scoring.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\Scoring.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Scoring.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\Scoring.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:16:53.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:51:58.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WaypointPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\WaypointPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\WaypointPatrol.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\WaypointPatrol.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\WaypointPatrol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:28:05.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Observer.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\Observer.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\Observer.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\Observer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:00:35.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameEnding.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\GameEnding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:24:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\UnityTechnologies\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\rafaf\\Documents\\Final\\Assets\\UnityTechnologies\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\UnityTechnologies\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAvwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:44:07.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
